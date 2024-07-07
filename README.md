@@ -6,17 +6,6 @@
 ![image](https://media.discordapp.net/attachments/1258419717505417277/1259566925210718330/20240707_231543.png?ex=668c269c&is=668ad51c&hm=8d3c1f801a6b6a270b9d4c6ef669381912c56125c1b4049ef6f3a806b4b575a4&)
 <p align="center" dir="auto">Trusted by 100+ host and 10000+ users.</p>
 <p align="center">
-  <a><img src="https://img.shields.io/github/downloads/privt00/tfc-plex/total?color=blue&label=v1.5.5 Downloads"/></a>
-  <a href="https://discord.gg/BXmzHS9DRA"><img src="https://img.shields.io/discord/1175441775972860076?color=blue&label=Discord&logo=tfc-plex&logoColor=blue" alt="discord" /></a>
-  <a href="https://docs.tfc-plex.de/"><img alt="Docs" src="https://img.shields.io/website?down_color=lightred&down_message=Offline&label=Docs&up_color=blue&up_message=Online&url=https://docs.tfc-plex.de/"></a>
-  <a href="https://tfc-plex.de"><img alt="Website" src="https://img.shields.io/website?down_color=lightred&down_message=Offline&label=Website&up_color=blue&up_message=Online&url=https://tfc-plex.de"></a>
-  <a href="https://demo.tfc-plex.de/"><img alt="Demo" src="https://img.shields.io/website?down_color=lightred&down_message=Offline&label=Demo&up_color=blue&up_message=Online&url=https://demo.tfc-plex.de"></a>
-  <a  href="https://github.com/privt00/tfc-plex/stargazers"><img src="https://img.shields.io/github/stars/privt00/tfc-plex?label=Stars %E2%AD%90" height="20"/></a>
-  <img src="https://komarev.com/ghpvc/?username=privt00tfc-plex&color=blue">
-</p>
-
-
-``` bash <(curl -s https://tfc-plex.de/install.sh)```
 
 ## Features
 
@@ -25,11 +14,10 @@
 ---
 
 ## 👀 Preview
-TFC-plex Demo: https://demo.tfc-plex.de/
+Hostactyl Demo: https://client.indiehost.tech/
 
 ## 👀 Our Docs
-https://docs.tfc-plex.de/
-
+Soon
 
 
 Dashboard (v1.5.0):
