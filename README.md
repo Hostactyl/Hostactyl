@@ -24,15 +24,14 @@ Hostactyl Demo: https://client.indiehost.tech/ soon
 Soon
 
 
-Dashboard (v1.5.0):
-![dashboard](https://cdn.discordapp.com/attachments/1188790627006160917/1191455862213054564/image.png?ex=65a580bd&is=65930bbd&hm=0896f3d81b0efbb603952e2bb71b9715ac59a1549aacc5e5cefb58cac07ecf03&)
+Dashboard (V1):
+![dashboard](https://cdn.discordapp.com/attachments/1258419717505417277/1259774265310445640/image.png?ex=668ce7b6&is=668b9636&hm=207ba67b6df32246573bfac550a245e10447af3a6f2c8837ce3e2e9ec5556a9d&)
 
-Server (v1.5.0):
-![Your Servers](https://cdn.discordapp.com/attachments/1188790627006160917/1191456026625581106/image.png?ex=65a580e4&is=65930be4&hm=252033749f8b8210e157bde90f607084ef93d01e54d3812031deda3cb3097d60&)
+Resource Store (V1):
+![Your Servers](https://cdn.discordapp.com/attachments/1258419717505417277/1259774579853758546/image.png?ex=668ce801&is=668b9681&hm=5f195a763b8be2acc832722daa89eca187680282de727f5245b980ba2515fd88&)
 
-User Settings (v1.0):
-![Account Setting](https://cdn.discordapp.com/attachments/1188790627006160917/1191456220507291748/image.png?ex=65a58113&is=65930c13&hm=10ac67a97193372589bae86c069e35c9db2273e141df13d2302afc00060f9b8c&)
-
+User Settings (V1):
+![Account Setting](https://cdn.discordapp.com/attachments/1258419717505417277/1259774765011304458/image.png?ex=668ce82d&is=668b96ad&hm=9cf35a788257de4b5a621cfe63b5fc0ab89908c07937786f25a31dec7713410b&)
 
 
 ---
