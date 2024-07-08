@@ -9,12 +9,16 @@
 
 ## Features
 
-
+Easy to use
+Clean UI
+Advanced features 
+Google login support 
+Open source
 
 ---
 
 ## 👀 Preview
-Hostactyl Demo: https://client.indiehost.tech/
+Hostactyl Demo: https://client.indiehost.tech/ soon
 
 ## 👀 Our Docs
 Soon
@@ -29,22 +33,20 @@ Server (v1.5.0):
 User Settings (v1.0):
 ![Account Setting](https://cdn.discordapp.com/attachments/1188790627006160917/1191456220507291748/image.png?ex=65a58113&is=65930c13&hm=10ac67a97193372589bae86c069e35c9db2273e141df13d2302afc00060f9b8c&)
 
-Theme Switcher (v1.5.0):
-![Shop](https://cdn.discordapp.com/attachments/1188790627006160917/1191456387583201352/image.png?ex=65a5813a&is=65930c3a&hm=c95064fe0e40c8960dbdc3fda4a28b36c09856e90c7afe5de1e336055935b20d&)
 
 
 ---
 
 ## 📝 Authors
-- [**Privt**](https://github.com/privt00)
+- [**Yash**](https://github.com/yashxoo)
 
 
 
 
 ---
 
-## © 2023-2024 TFC-Plex by privt00
-r" dir="auto">Trusted by 134 host and 130472 users.</p>
+## © 2024-2025 Hostactyl by Yash
+r" dir="auto">Trusted by 100+ host and 10000+ users.</p>
 <p align="center">
   <a><img src="https://img.shields.io/github/downloads/privt00/tfc-plex/total?color=blue&label=v1.5.5 Downloads"/></a>
   <a href="https://discord.gg/BXmzHS9DRA"><img src="https://img.shields.io/discord/1175441775972860076?color=blue&label=Discord&logo=tfc-plex&logoColor=blue" alt="discord" /></a>
