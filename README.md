@@ -9,10 +9,10 @@
 
 ## Features
 
-Easy to use
-Clean UI
-Advanced features 
-Google login support 
+Easy to use, 
+Clean UI, 
+Advanced features, 
+Google login support, 
 Open source
 
 ---
